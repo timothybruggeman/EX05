@@ -1,0 +1,8 @@
+﻿  Source.cpp
+j:\cs 2\ex05\ex05_01\ex05_01\source.cpp(20): error C2672: 'linearSearch': no matching overloaded function found
+j:\cs 2\ex05\ex05_01\ex05_01\source.cpp(20): error C2782: 'int linearSearch(const T [],T,int)': template parameter 'T' is ambiguous
+  j:\cs 2\ex05\ex05_01\ex05_01\source.cpp(11): note: see declaration of 'linearSearch'
+  j:\cs 2\ex05\ex05_01\ex05_01\source.cpp(20): note: could be 'const char *'
+  j:\cs 2\ex05\ex05_01\ex05_01\source.cpp(20): note: or       'std::string'
+j:\cs 2\ex05\ex05_01\ex05_01\source.cpp(20): error C2784: 'int linearSearch(const T [],T,int)': could not deduce template argument for 'T' from 'const char [6]'
+  j:\cs 2\ex05\ex05_01\ex05_01\source.cpp(11): note: see declaration of 'linearSearch'

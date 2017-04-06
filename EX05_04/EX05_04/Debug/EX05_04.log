@@ -1,0 +1,4 @@
+﻿  Source.cpp
+j:\cs 2\ex05\ex05_04\ex05_04\source.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EX05_04.vcxproj -> J:\CS 2\EX05\EX05_04\Debug\EX05_04.exe
+  EX05_04.vcxproj -> J:\CS 2\EX05\EX05_04\Debug\EX05_04.pdb (Partial PDB)
